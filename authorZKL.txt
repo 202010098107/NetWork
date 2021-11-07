@@ -1,1 +1,1 @@
-zkl
+zkl go
